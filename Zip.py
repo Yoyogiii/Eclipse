@@ -19,6 +19,7 @@ print(set(c))
 BP=[100,200,300,400,500]
 SP=[600,700,700,700,1000]
 P=zip(BP,SP)
+print("hii")
 
 for  BP,SP in P:
     if BP<SP:
