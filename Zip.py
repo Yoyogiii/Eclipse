@@ -27,4 +27,3 @@ for  BP,SP in P:
         x = BP-SP
         print("Profit", x)
 
-
